@@ -26,6 +26,7 @@
     NSLog(@"何宪昆");
     NSLog(@"何宪昆");
 
+    NSLog(@"18967");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
